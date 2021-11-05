@@ -5,8 +5,8 @@ Web accessibility is an increasingly important consideration for businesses. It 
 The challenge is to refactor the existing website code for best practices with a focus on accessibility.
 
 ## Links
-* Live Site: https://joshualintz.github.io/run-buddy/
-* Code Repo: 
+* Live Site: https://joshualintz.github.io/horiseon-refactor/
+* Code Repo: https://github.com/joshualintz/horiseon-refactor 
 
 ## Built With
 * HTML
